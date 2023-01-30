@@ -16,7 +16,7 @@ problems in the business world today.
 
 #### *Here’s what I look like*:
 
-![My Picture](Images/Profile_Pic.png)
+![My Picture](Profile_Pic.png)
 
 | Skills                       |
 |------------------------------|
@@ -27,4 +27,5 @@ problems in the business world today.
 | Having a Good sense of Humor |
 | Having a Good Attitude       |
 
-[My LinkedIn](https://www.linkedin.com/in/kobe-ordinado-9aa046206/)
+[My LinkedIn
+Profile:](https://www.linkedin.com/in/kobe-ordinado-9aa046206/)
